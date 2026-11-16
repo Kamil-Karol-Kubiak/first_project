@@ -15,3 +15,8 @@ else:
     print("Wrong!")
 
 
+if score != 0:
+    print("Score: %d of 2" % score)
+else:
+    print("You've answered correctly 0 times.")
+
